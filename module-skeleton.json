@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-extension-manager-react-native",
+  "capabilityKey": "liberusoftware/module-cms-extension-manager",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-extension-manager-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/extension-manager.md",
+  "presentationPlan": "projects/cms/react-native/extension-manager.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
